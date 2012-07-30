@@ -1,0 +1,14 @@
+
+body {
+	font-family: helvetica;
+	font-size: 12px;
+	padding: 30px;
+}
+
+ol li {
+	margin-bottom: 20px;
+}
+
+ul li {
+	margin-bottom: 5px;
+}
